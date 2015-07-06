@@ -1,3 +1,9 @@
 from django.contrib import admin
+<<<<<<< HEAD
 
 # Register your models here.
+=======
+from .models import Post
+from django.contrib.auth.models.AbstractUser 
+admin.site.register(Post)
+>>>>>>> checking for gmail authentication
