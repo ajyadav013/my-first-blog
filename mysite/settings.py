@@ -114,11 +114,11 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 AUTH_USER_MODEL='custom_user.AuthUser'
 
 EMAIL_HOST='smtp.gmail.com'
-EMAIL_HOST_USER='arjun.yadav013@gmail.com'
-EMAIL_HOST_PASSWORD='wasd6798'
+EMAIL_HOST_USER='arjun.yadav015@gmail.com'
+EMAIL_HOST_PASSWORD='oykdfxmumacixqsr'
 EMAIL_PORT=587
 EMAIL_USE_TLS=True
-DEFAULT_FROM_MAIL='arjun.yadav013@gmail.com'
+DEFAULT_FROM_MAIL='arjun.yadav015@gmail.com'
 EMAIL_BACKEND='django.core.mail.backends.smtp.EmailBackend'
 
 
